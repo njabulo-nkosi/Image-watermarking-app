@@ -116,4 +116,3 @@ class GuInterface:
         if path_to_save:
             main_img.save(path_to_save)
             print(f'File saved to {path_to_save}')
-
